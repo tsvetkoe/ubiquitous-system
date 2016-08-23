@@ -179,7 +179,19 @@
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
     "ProjectGuid": "c0f9e6a0-be4e-4356-9d0e-2857d482d4a6",
-    
+    "SourceControlRepository": {
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
+      "__value": {
+        "RemotePath": "https://github.com/tsvetkoe/ubiquitous-system",
+        "ServerInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
+          "__value": {
+            "ServerName": "https://github.com/tsvetkoe/ubiquitous-system"
+          }
+        },
+        "ServerType": 2
+      }
+    },
     "IsOnline": true,
     "ProjectLanguage": 2,
     "ProjectReferences": [
