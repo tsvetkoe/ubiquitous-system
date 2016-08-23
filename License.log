@@ -1,0 +1,45 @@
+    ======  ======
+    Time:8/23/2016 6:26:24 PM
+    Title: Initiate log
+    Message: 
+    Time:8/23/2016 6:26:24 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:8/23/2016 6:26:24 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:8/23/2016 6:26:24 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:8/23/2016 6:26:24 PM
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:8/23/2016 6:26:24 PM
+    Title: Requesting Validation
+    Message: ILMValidate True NotTrial
+    Uncategorized: Orchestrator._iUIProject_ProjectOpened() : Project 'New folder' Opened.
+    Uncategorized: Orchestrator.set_SelectedProject() : Active Project is : 'New folder'
+    Error: CodeService.CreateLanguageDataHelper() : EXCEPTION! (see below)
+     Situation: Error loading Assembly cache
+     Outer Exception Type: System.NullReferenceException
+     Message: Object reference not set to an instance of an object.
+     HRESULT: 0x80004003 (Official ID (if app.) = E_POINTER, Error Bit = FAILED, Facility = FACILITY_NULL, Code = 16387)
+     Call Stack:
+          at ArtOfTest.WebAii.Design.CodeGeneration.CodeService.CreateLanguageDataHelper(Object sender, DoWorkEventArgs e)
+
+    TestStudio: <>c__DisplayClass35_1.<LoadInternal>b__2() : Extract elements time: 00:00:00.0052975
+    TestStudio: <>c__DisplayClass35_1.<LoadInternal>b__2() : Merge elements time: 00:00:00.0005633
+    TestStudio: <>c__DisplayClass35_1.<LoadInternal>b__2() : Total Elements count: 0
+    TestStudio: ElementsExplorerViewModel.SyncNodes() : Added 0 visual elements in the Elements Explorer tree.
+    Framework: BrowserProvisioner.EndService() : Connecting to the provisioning pipe "Pipe.ArtOfTest.WebAii.BrowserProvisioner_-837606152" in order to unblock and eventually terminate it...
+    Framework: BrowserProvisioner.EndService() : Provisioning pipe connected.
+    Framework: BrowserProvisioner.ServiceThread() : A new client has connected to the provisioning pipe but this will be treated as a termination cue.
+    Framework: BrowserProvisioner.EndService() : Provisioning thread terminated.
+    DialogPlayback: DialogMonitor.Stop() : Dialog monitoring is being halted.
+    UIAutomation: AutomationExtensions.AddAutomationEventHandler() : Added a(n) WindowPatternIdentifiers.WindowOpenedProperty handler on element System.Windows.Automation.AutomationElement scope Descendants.
+    Framework: BrowserProvisioner.EndService() : Connecting to the provisioning pipe "Pipe.ArtOfTest.WebAii.BrowserProvisioner_1866165479" in order to unblock and eventually terminate it...
+    Framework: BrowserProvisioner.ServiceThread() : A new client has connected to the provisioning pipe but this will be treated as a termination cue.
+    Framework: BrowserProvisioner.EndService() : Provisioning pipe connected.
+    Framework: BrowserProvisioner.EndService() : Provisioning thread terminated.
+    DialogPlayback: DialogMonitor.Stop() : Dialog monitoring is being halted.
+    UIAutomation: AutomationExtensions.AddAutomationEventHandler() : Added a(n) WindowPatternIdentifiers.WindowOpenedProperty handler on element System.Windows.Automation.AutomationElement scope Descendants.
