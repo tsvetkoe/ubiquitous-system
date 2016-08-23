@@ -18,13 +18,13 @@
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
             "Runtime ID": "51d75fd4-1fb8-4aba-b92e-5f84d8d08fc4",
-            "Description": "Navigate to : 'http://google.com'",
+            "Description": "Navigate to : 'http://bing.com'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.NavigateToActionDescriptor",
               "__value": {
                 "UseDecodedUrl": true,
-                "NavigateURL": "http://google.com",
+                "NavigateURL": "http://bing.com",
                 "BaseUrl": "",
                 "WaitOnElementsTimeout": 0,
                 "UseStepWaitOnElementsTimout": false,
